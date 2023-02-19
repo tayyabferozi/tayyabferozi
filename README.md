@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Crazy about coding ...
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=tayyabferozi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+[Tayyab Ferorzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tayyabferozi&theme=prussian&show_icons=true)
